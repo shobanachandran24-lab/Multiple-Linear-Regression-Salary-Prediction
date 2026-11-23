@@ -59,8 +59,6 @@ jupyter notebook Multi_Linear_regression.ipynb
 ├── data/
 │   └── multiple_linear_regression_dataset.csv
 ├── Multi_Linear_regression.ipynb
-├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
